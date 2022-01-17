@@ -1,0 +1,3 @@
+A text-align: center az első div-re feltehető, akkor a kép is középre kerül, és nincs szükség a margin-left:150px-re(az nem minden kijelzőméretnél jó)
+
+A második div-re rátehető a font-family: Georgia; és a margin-left: 150px;(akkor nem kell külön-külön minden elemnél) 
